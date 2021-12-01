@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742300205392",
+    "project_id": "fb-mvvm-4",
+    "storage_bucket": "fb-mvvm-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742300205392:android:8b385ff72dd541f6136c55",
+        "android_client_info": {
+          "package_name": "com.bugs.fbmvvm3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742300205392-5mpa9b7sst7ub3jhrkogc713uo40s7a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxj29WsJqvpR6OIYSUTGMk8yf7vXy0cqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742300205392-5mpa9b7sst7ub3jhrkogc713uo40s7a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
